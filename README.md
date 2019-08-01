@@ -18,3 +18,20 @@
 - Użyto jak najmniej kodu odpowiedzialnego za responsywność, zgodnie z założeniami.
 - Przy doklejaniu treści w przypadku nie możliwości spełnienia warunku jest wyświetlany stosowny komunikat.
 - Button w footerze ("pokaż"), zgodnie z założeniami, wysuwający ramkę bez użycia JSa.
+
+### Projekt graficzny
+
+> Widok 1920px x 1080px.
+
+![](https://raw.githubusercontent.com/konradkrakowiecki/Recruitment_Task_HTML_CSS_JS/master/projekt/task.jpg)
+
+
+> Widok - hover 1920px x 1080px.
+
+![](https://raw.githubusercontent.com/konradkrakowiecki/Recruitment_Task_HTML_CSS_JS/master/projekt/task_hover.jpg)
+
+
+> Widok mobile (poglądowy).
+
+![](https://raw.githubusercontent.com/konradkrakowiecki/Recruitment_Task_HTML_CSS_JS/master/projekt/task-mobile.jpg)
+
